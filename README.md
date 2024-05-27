@@ -14,7 +14,6 @@ The purposes of the application are to:
      - Title
      - Author
      - Genre
-     - Synopsis
        
      b. A centralized digital catalog makes it simple for users to keep track of all their books in one place
    
@@ -28,9 +27,9 @@ The purposes of the application are to:
 
     a. Users can edit and update book details to ensure that their digital catalog is accurate and up-to-date
   
- 4. Facilitate removal of books
+ 4. Delete book entries
 
-    a. Users may decide to remove their books if they no longer want or need in order to organize their book catalog
+    a. Users may decide to remove their books if they no longer want or need in order to organize their library
 
 ### Features and Functionalities
 
