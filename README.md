@@ -26,6 +26,7 @@ The purposes of the application are to:
 
 ### Features and Functionalities
 3.1 Homepage
+
     Welcome Message: Greeting to users, introducing them to Libellum
     Navigation Menu: Easy to access to different sections of the applications such as Home, My      Books, Authors, Genres and Profile.
     Featured Books: Display a selection of popular or recommended books.
@@ -33,6 +34,7 @@ The purposes of the application are to:
     User Login/Signup: Links or buttons to sign in or register.
     
   3.2 User Authentication and Profiles
+  
     User Registration: Allow users to create an account by providing their name, email, and password.
     User Login: Provide secure login functionality for existing users.
     User Profile: View and edit profile information, such as name, email, and password.
