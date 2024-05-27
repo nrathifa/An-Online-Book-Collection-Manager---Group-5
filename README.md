@@ -39,7 +39,6 @@ The purposes of the application are to:
 ### 3.0 FEATURES AND FUNCTIONALITIES
 
   &nbsp; 3.1 Homepage
-
   - Welcome Message: Greeting to users, introducing them to Libellum
   - Navigation Menu: Easy to access to different sections of the applications such as Home, My      Books, Authors, Genres and Profile.
   - Featured Books: Display a selection of popular or recommended books.
@@ -47,10 +46,27 @@ The purposes of the application are to:
   - User Login/Signup: Links or buttons to sign in or register.
     
   &nbsp; 3.2 User Authentication and Profiles
-  
-  User Registration: Allow users to create an account by providing their name, email, and password.
-  User Login: Provide secure login functionality for existing users.
-  User Profile: View and edit profile information, such as name, email, and password.
+  - User Registration: Allow users to create an account by providing their name, email, and password.
+  - User Login: Provide secure login functionality for existing users.
+  - User Profile: View and edit profile information, such as name, email, and password.
+
+   &nbsp; 3.3 Book Management 
+   - Create Book Entries: Add new books by providing details such as title, author, genre and reading status.
+   - Read/View Book Entries: Display list of books in the user’s library with options to view detailed information for each book.
+   - Update Book Entries: Enable users to edit the status of their reading.
+   - Delete Book Entries: Allow users to remove books from their library.
+
+   &nbsp; 3.4 Additional Features
+   - Search and Filter: Enable users to search for books by title or author and filter results by genre or reading status for easier navigation and discovery.
+   - Reading Progress Tracker: Let users update and track their reading progress for each book, including current page and total pages.
+   - Authors and Genres Management: Allow users to manage a list of authors and genres separately. 
+
+   &nbsp; 3.5 Responsive Design
+   - Mobile-Friendly: Ensure the application is fully responsive and optimized for mobile devices. 
+
+   &nbsp; 3.6 User Interaction and Engagement
+   - Notification System: Implement notifications to alert users about important updates, such as new book additions or reviews.
+   - Social Sharing: Allow users to share their favorite books and reviews on social media platforms.
 
 ### 4.0 ENTITY-RELATIONSHIP DIAGRAM (ERD)
 
