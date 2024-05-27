@@ -2,9 +2,9 @@ GROUP-PROJCT-PROPOSAL-GROUP-5
 
 
 
-### 1. Intro
+### 1.0 Intro
 
-### 2. Objectives
+### 2.0 Objectives
 The core objectives of Libellum: Your Biblioteca  is to offer users an easy-to-use and usable tool to effectively organize their book collections.
 
 The purposes of the application are to:
@@ -25,7 +25,7 @@ The purposes of the application are to:
 
     a. Users may decide to remove their books if they no longer want or need it
 
-### 3. Features and Functionalities
+### 3.0 Features and Functionalities
   3.1 Homepage
 
   Welcome Message: Greeting to users, introducing them to Libellum
@@ -40,11 +40,11 @@ The purposes of the application are to:
   User Login: Provide secure login functionality for existing users.
   User Profile: View and edit profile information, such as name, email, and password.
 
-### 4. Entity-Relationship Diagram (ERD)
+### 4.0 Entity-Relationship Diagram (ERD)
 <img width="779" alt="erd2" src="https://github.com/nrathifa/An-Online-Book-Library---Group-5/assets/152828160/4eae30b1-5f24-42a2-9413-14199cd666a2">
 
 
-### 5. Sequence Diagram
+### 5.0 Sequence Diagram
 
   5.1 Login, Add New Book and View
   
@@ -58,7 +58,7 @@ The purposes of the application are to:
   
   ![Web App Sequence Diagram drawio (2)](https://github.com/nrathifa/An-Online-Book-Library---Group-5/assets/170921758/efd70c1f-e58b-4bd2-9de9-e471fdb5fc5a)
 
-### References
+### 6.0 References
   1. Sarwar, Fraz. (2024, April 11). Library-Management-System-Sequence-Diagram 3. Retrieved from https://www.edrawmax.com/templates/1050618/
 
 
