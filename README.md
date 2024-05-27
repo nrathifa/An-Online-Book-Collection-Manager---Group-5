@@ -1,4 +1,5 @@
 # An-Online-Book-Library---Group-5
+*GROUP PROJCT PROPOSAL*
 
 
 ### 1. Intro
@@ -40,7 +41,8 @@ The purposes of the application are to:
   User Profile: View and edit profile information, such as name, email, and password.
 
 ### 4. Entity-Relationship Diagram (ERD)
-<img width="851" alt="erd" src="https://github.com/nrathifa/An-Online-Book-Library---Group-5/assets/152828160/f3561680-5920-464a-b16e-b6193916dd4e"> 
+<img width="779" alt="erd2" src="https://github.com/nrathifa/An-Online-Book-Library---Group-5/assets/152828160/4eae30b1-5f24-42a2-9413-14199cd666a2">
+
 
 ### 5. Sequence Diagram
 
