@@ -41,5 +41,14 @@ The following sequence diagram represents the interaction for adding a new book 
 
 ![Web App Sequence Diagram drawio](https://github.com/nrathifa/An-Online-Book-Library---Group-5/assets/170921758/3679765b-b224-4672-a184-5216ee8faaa7)
 
+### References
+
+  1. Sarwar, Fraz. (2024, April 11). Library-Management-System-Sequence-Diagram 3. Retrieved from https://www.edrawmax.com/templates/1050618/
+
+
+  2. Sarwar, Fraz. (2024, April 11). Library-Management-System-Sequence-Diagram 1. Retrieved from https://www.edrawmax.com/templates/1050616/
+
+
+  3. (E-BOOK RVN - OOAD E-BOOK MANAGEMENT SYStem, 2022). https://www.studocu.com/in/document/priyadarshini-engineering-college/computer-technology/e-book-rvn-ooad-e-book-         management-system/40232140 
 
   
