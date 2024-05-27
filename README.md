@@ -1,5 +1,5 @@
-# An-Online-Book-Library---Group-5
-*GROUP PROJCT PROPOSAL*
+GROUP PROJCT PROPOSAL - GROUP 5
+
 
 
 ### 1. Intro
