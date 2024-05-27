@@ -1,5 +1,14 @@
 # GROUP-PROJECT-PROPOSAL-GROUP-5 
 
+TITLE : ONLINE BOOK LIBRARY
+
+GROUP MEMBERS:
+1. NUR ATHIFA ELYSHA BINTI SUHAIMI  2219320
+2. AISYAH AFIQAH BINTI ZALAMIN  2211826
+3. NURINHANY MYSARA BINTI NOOR HASLAN  2211492
+4. NUR ADLINA NAJWA BINTI ROSLI  2213362
+5.
+
 ### 1.0 INTRODUCTION
 
 Libellum: Your Biblioteca is an online application for book enthusiasts. It can help users manage their online book collection. Libellum offers a seamless and user-friendly platform designed to help users effortlessly manage their growing book collection. With Libellum, users can easily keep track of their favourite reads and maintain a well-organized digital library hassle-free. 
