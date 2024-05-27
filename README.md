@@ -25,6 +25,16 @@ The purposes of the application are to:
     a. Users may decide to remove their books if they no longer want or need it
 
 ### Features and Functionalities
+  3.1 Homepage
+    Welcome Message: Greeting to users, introducing them to Libellum
+    Navigation Menu: Easy to access to different sections of the applications such as Home, My      Books, Authors, Genres and Profile.
+    Featured Books: Display a selection of popular or recommended books.
+    Search Bar: Allow users to quickly search for books by title or author.
+    User Login/Signup: Links or buttons to sign in or register.
+  3.2 User Authentication and Profiles
+    User Registration: Allow users to create an account by providing their name, email, and password.
+    User Login: Provide secure login functionality for existing users.
+    User Profile: View and edit profile information, such as name, email, and password.
 
 ### Entity-Relationship Diagram (ERD)
 <img width="851" alt="erd" src="https://github.com/nrathifa/An-Online-Book-Library---Group-5/assets/152828160/f3561680-5920-464a-b16e-b6193916dd4e"> 
