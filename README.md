@@ -27,6 +27,7 @@ The purposes of the application are to:
 ### Features and Functionalities
 
 ### Entity-Relationship Diagram (ERD)
+<img width="851" alt="erd" src="https://github.com/nrathifa/An-Online-Book-Library---Group-5/assets/152828160/f3561680-5920-464a-b16e-b6193916dd4e"> 
 
 ### Sequence Diagram
 The following sequence diagram represents the interaction for adding a new book to BookShelf web application:
