@@ -4,32 +4,25 @@
 ### Intro
 
 ### Objectives
-The core objectives of BookShelf: An Online Book Collection Manager is to offer users an easy-to-use and usable tool to effectively organize their book collections.
+The core objectives of Libellum: Your Biblioteca  is to offer users an easy-to-use and usable tool to effectively organize their book collections.
 
 The purposes of the application are to:
 
   1. Create and maintain a book digital catalog
      
-     a. It provides users the option to input details about each book they own such as: 
+     a. It provides users the option to input details about each book they want to search such as: 
      - Title
-     - Author
      - Genre
-       
-     b. A centralized digital catalog makes it simple for users to keep track of all their books in one place
    
  2. Easy access to book details and reading status 
 
     a. It helps users to stay organized by being able to:
-    - View book covers
+    - View book history
     - Track the progress of their reading 
  
- 3. Update book information
+ 3. Facilitate removal of books
 
-    a. Users can edit and update book details to ensure that their digital catalog is accurate and up-to-date
-  
- 4. Delete book entries
-
-    a. Users may decide to remove their books if they no longer want or need in order to organize their library
+    a. Users may decide to remove their books if they no longer want or need it
 
 ### Features and Functionalities
 
