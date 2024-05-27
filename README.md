@@ -1,9 +1,9 @@
 # An-Online-Book-Library---Group-5
 
 
-### 1.0 Intro
+### 1. Intro
 
-### 2.0 Objectives
+### 2. Objectives
 The core objectives of Libellum: Your Biblioteca  is to offer users an easy-to-use and usable tool to effectively organize their book collections.
 
 The purposes of the application are to:
@@ -24,8 +24,8 @@ The purposes of the application are to:
 
     a. Users may decide to remove their books if they no longer want or need it
 
-### 3.0 Features and Functionalities
-3.1 Homepage
+### 3. Features and Functionalities
+  3.1 Homepage
 
   Welcome Message: Greeting to users, introducing them to Libellum
   Navigation Menu: Easy to access to different sections of the applications such as Home, My      Books, Authors, Genres and Profile.
@@ -33,16 +33,17 @@ The purposes of the application are to:
   Search Bar: Allow users to quickly search for books by title or author.
   User Login/Signup: Links or buttons to sign in or register.
     
-3.2 User Authentication and Profiles
+  3.2 User Authentication and Profiles
   
   User Registration: Allow users to create an account by providing their name, email, and password.
   User Login: Provide secure login functionality for existing users.
   User Profile: View and edit profile information, such as name, email, and password.
 
-### 4.0 Entity-Relationship Diagram (ERD)
+### 4. Entity-Relationship Diagram (ERD)
 <img width="851" alt="erd" src="https://github.com/nrathifa/An-Online-Book-Library---Group-5/assets/152828160/f3561680-5920-464a-b16e-b6193916dd4e"> 
 
-### 5.0 Sequence Diagram
+### 5. Sequence Diagram
+
   5.1 Login, Add New Book and View
   
   ![Web App Sequence Diagram drawio (1)](https://github.com/nrathifa/An-Online-Book-Library---Group-5/assets/170921758/7d4bc9be-d966-4253-9596-3445c251585a)
