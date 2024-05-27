@@ -40,11 +40,11 @@ The purposes of the application are to:
 
   &nbsp; 3.1 Homepage
 
-  Welcome Message: Greeting to users, introducing them to Libellum
-  Navigation Menu: Easy to access to different sections of the applications such as Home, My      Books, Authors, Genres and Profile.
-  Featured Books: Display a selection of popular or recommended books.
-  Search Bar: Allow users to quickly search for books by title or author.
-  User Login/Signup: Links or buttons to sign in or register.
+  - Welcome Message: Greeting to users, introducing them to Libellum
+  - Navigation Menu: Easy to access to different sections of the applications such as Home, My      Books, Authors, Genres and Profile.
+  - Featured Books: Display a selection of popular or recommended books.
+  - Search Bar: Allow users to quickly search for books by title or author.
+  - User Login/Signup: Links or buttons to sign in or register.
     
   &nbsp; 3.2 User Authentication and Profiles
   
