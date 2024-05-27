@@ -32,6 +32,12 @@ The purposes of the application are to:
 
     a. Users may decide to remove their books if they no longer want or need in order to organize their book catalog
 
+### Features and Functionalities
+
+### Entity-Relationship Diagram (ERD)
+
+### Sequence Diagram
+The following sequence diagram represents the interaction for adding a new book to BookShelf web application:
 
 
   
