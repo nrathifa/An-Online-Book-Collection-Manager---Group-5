@@ -38,7 +38,6 @@ The purposes of the application are to:
 ### Sequence Diagram
 The following sequence diagram represents the interaction for adding a new book to BookShelf web application:
 
-![Web App Sequence Diagram drawio](https://github.com/nrathifa/An-Online-Book-Library---Group-5/assets/170921758/3679765b-b224-4672-a184-5216ee8faaa7)
 
 ### References
   1. Sarwar, Fraz. (2024, April 11). Library-Management-System-Sequence-Diagram 3. Retrieved from https://www.edrawmax.com/templates/1050618/
