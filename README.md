@@ -44,13 +44,16 @@ The purposes of the application are to:
 
 ### 5.0 Sequence Diagram
   5.1 Login, Add New Book and View
-      ![Web App Sequence Diagram drawio (1)](https://github.com/nrathifa/An-Online-Book-Library---Group-5/assets/170921758/7d4bc9be-d966-4253-9596-3445c251585a)
+  
+  ![Web App Sequence Diagram drawio (1)](https://github.com/nrathifa/An-Online-Book-Library---Group-5/assets/170921758/7d4bc9be-d966-4253-9596-3445c251585a)
 
   5.2 View and Edit
-      ![Web App Sequence Diagram drawio (3)](https://github.com/nrathifa/An-Online-Book-Library---Group-5/assets/170921758/9513cd92-e783-4482-9d98-dd2eba59c728)
+  
+  ![Web App Sequence Diagram drawio (3)](https://github.com/nrathifa/An-Online-Book-Library---Group-5/assets/170921758/9513cd92-e783-4482-9d98-dd2eba59c728)
 
   5.3 View and Delete
-      ![Web App Sequence Diagram drawio (2)](https://github.com/nrathifa/An-Online-Book-Library---Group-5/assets/170921758/efd70c1f-e58b-4bd2-9de9-e471fdb5fc5a)
+  
+  ![Web App Sequence Diagram drawio (2)](https://github.com/nrathifa/An-Online-Book-Library---Group-5/assets/170921758/efd70c1f-e58b-4bd2-9de9-e471fdb5fc5a)
 
 ### References
   1. Sarwar, Fraz. (2024, April 11). Library-Management-System-Sequence-Diagram 3. Retrieved from https://www.edrawmax.com/templates/1050618/
